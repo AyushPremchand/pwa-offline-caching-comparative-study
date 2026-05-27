@@ -45,7 +45,7 @@ under different network conditions:
 ---
 
 ## 📁 File
-📄 Full paper: `Honours Research Paper-Evaluation of Offline-First Progressive Web Application Caching and Synchronization Strategies`
+📄 Full paper: `Honours Research Paper-Evaluation of Offline-First Progressive Web Application Caching and Synchronization Strategies.pdf`
 
 ---
 
