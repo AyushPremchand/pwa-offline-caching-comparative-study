@@ -79,7 +79,7 @@ The following performance metrics were used:
 
 ## 📁 Full Research Paper
 
-📄 [Download Full Paper](./Honours Research Paper-Evaluation of Offline-First Progressive Web Application Caching and Synchronization Strategies.pdf)
+📄 [Download Full Paper](./pwa-caching-comparative-study.pdf)
 
 ---
 
